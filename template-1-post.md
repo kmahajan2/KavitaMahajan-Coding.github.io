@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Student
+author: Kavita Mahajan
 tags: [cscc]
 ---
 ## AI and Emerging Technologies
